@@ -2096,10 +2096,11 @@ body {
 }
 .courses .courses-content .box {
     position: relative;
-    background-color: white;
+    background-color: red;
     overflow: hidden;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    margin: 0 auto;
 }
 .courses .courses-content .box .img-span {
     position: absolute;
